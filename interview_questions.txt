@@ -1,0 +1,3 @@
+what is manual testing
+difference between bug vs defect
+explain defect life cycle
